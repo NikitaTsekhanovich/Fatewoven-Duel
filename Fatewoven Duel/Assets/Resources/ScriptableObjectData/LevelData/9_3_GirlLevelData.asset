@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e236ce8301eb1e8428851e80954d3148, type: 3}
+  m_Name: 9_3_GirlLevelData
+  m_EditorClassIdentifier: 
+  _index: 9
+  _playerType: 1
+  _skinCharacter:
+    HeadSprite: {fileID: 21300000, guid: 38d8ba4478625394e8c07ec4c784af35, type: 3}
+    BodySprite: {fileID: 21300000, guid: 77861e3a1561bc04d8462172903111fa, type: 3}
+    HandSprite: {fileID: 21300000, guid: a2f4ba29fcb4e2e48a5946f14599bad5, type: 3}
+  _delayAttackAI: 2
+  _delayJumpAI: 2
+  _playerDialogue: The point? It's my destiny to become the strongest mage. And you're
+    just another barrier.
+  _enemyDialogue: Why do you want to win so badly? What's the point?
+  _amountRounds: 4
+  _timeRound: 40

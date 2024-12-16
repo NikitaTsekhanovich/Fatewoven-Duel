@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e236ce8301eb1e8428851e80954d3148, type: 3}
+  m_Name: 0_BoyLevelData
+  m_EditorClassIdentifier: 
+  _index: 0
+  _playerType: 0
+  _skinCharacter:
+    HeadSprite: {fileID: 21300000, guid: 6901de998d6f23248b079ceb04c056cd, type: 3}
+    BodySprite: {fileID: 21300000, guid: 8249a3d546673474ea5ff18780d2c41b, type: 3}
+    HandSprite: {fileID: 21300000, guid: 3f60acda951faa242949a75e462c8dd3, type: 3}
+  _delayAttackAI: 1
+  _delayJumpAI: 5
+  _playerDialogue: I don't understand why you decided to call me. We could have been
+    allies!
+  _enemyDialogue: Allies? Are you really that naive? Prove that you are worthy of
+    being called a mage before you talk about an alliance.
+  _amountRounds: 2
+  _timeRound: 30

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e236ce8301eb1e8428851e80954d3148, type: 3}
+  m_Name: 2_BoyLevelData
+  m_EditorClassIdentifier: 
+  _index: 2
+  _playerType: 0
+  _skinCharacter:
+    HeadSprite: {fileID: 21300000, guid: bcb8af41db3af204b93de12b721e6cba, type: 3}
+    BodySprite: {fileID: 21300000, guid: 7738d5c21942a5d4aa8daa38ca80ab3b, type: 3}
+    HandSprite: {fileID: 21300000, guid: a51331beda4e6eb4486cc03398b88eb1, type: 3}
+  _delayAttackAI: 3
+  _delayJumpAI: 3
+  _playerDialogue: Why are you so persistent? What do you want to prove by this?
+  _enemyDialogue: I won't let anyone stand in my way. Especially you. Prepare to
+    lose.
+  _amountRounds: 4
+  _timeRound: 20

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2994e610c1492bc4baffd41f4037eff4, type: 3}
+  m_Name: 0_SkinBoyData
+  m_EditorClassIdentifier: 
+  _index: 0
+  _icon: {fileID: 21300000, guid: 26269dcd9f2eeff4bb3489c584ac8306, type: 3}
+  _lockText: 
+  _skinCharacter:
+    HeadSprite: {fileID: 21300000, guid: 4c69f500f0003b046813c47c50b67c6b, type: 3}
+    BodySprite: {fileID: 21300000, guid: 8ace1ef126df2bb42b071f52b282d19c, type: 3}
+    HandSprite: {fileID: 21300000, guid: 5143283901ca5784f832656d9269785a, type: 3}

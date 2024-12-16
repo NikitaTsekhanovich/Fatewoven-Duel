@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f689280920ef54342a8bc1a14d2463d7, type: 3}
+  m_Name: 2_SkinGirlData
+  m_EditorClassIdentifier: 
+  _index: 2
+  _icon: {fileID: 21300000, guid: af04b3ef5b189e24c8899007a933e7c5, type: 3}
+  _lockText: Level 3 not completed for the girl
+  _skinCharacter:
+    HeadSprite: {fileID: 21300000, guid: bcb8af41db3af204b93de12b721e6cba, type: 3}
+    BodySprite: {fileID: 21300000, guid: 7738d5c21942a5d4aa8daa38ca80ab3b, type: 3}
+    HandSprite: {fileID: 21300000, guid: a51331beda4e6eb4486cc03398b88eb1, type: 3}
